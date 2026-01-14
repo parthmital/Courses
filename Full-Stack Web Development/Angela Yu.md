@@ -1,6 +1,6 @@
 # Full-Stack Web Development - Angela Yu
 
-## **Front-End Web Development** (9 lectures)
+## 1. Front-End Web Development (9 lectures)
 
 1. What You'll Get in This Course (Preview)
 2. Download the Course Syllabus
@@ -12,7 +12,7 @@
 8. How to Get Help When You're Stuck
 9. Pathfinder
 
-## **Introduction to HTML** (8 lectures)
+## 2. Introduction to HTML (8 lectures)
 
 1. A Note About 2023 Course Updates
 2. What is HTML? (Preview)
@@ -23,7 +23,7 @@
 7. [Project] Movie Ranking
 8. How to Ace this Course
 
-## **Intermediate HTML** (7 lectures)
+## 3. Intermediate HTML (7 lectures)
 
 1. The List Element
 2. Nesting and Indentation
@@ -33,7 +33,7 @@
 6. Tip from Angela - Habit Building with the Calendar Trick
 7. Get Access to the Monthly App Brewery Newsletter
 
-## **Multi-Page Websites** (7 lectures)
+## 4. Multi-Page Websites (7 lectures)
 
 1. Computer File Paths
 2. What are Webpages?
@@ -43,7 +43,7 @@
 6. Introduction to Capstone Projects (Preview)
 7. Instructions for Capstone Project 1 - Online Resume
 
-## **Introduction to CSS** (6 lectures)
+## 5. Introduction to CSS (6 lectures)
 
 1. Why do we need CSS?
 2. How to add CSS
@@ -53,7 +53,7 @@
 6. Tip from Angela - Dealing with Distractions
 7. Join the Student Community
 
-## **CSS Properties** (5 lectures)
+## 6. CSS Properties (5 lectures)
 
 1. CSS Colours
 2. Font Properties
@@ -61,7 +61,7 @@
 4. The CSS Box Model - Margin, Padding and Border
 5. [Project] Motivational Poster Website
 
-## **Intermediate CSS** (5 lectures)
+## 7. Intermediate CSS (5 lectures)
 
 1. The Cascade - Specificity and Inheritance (Preview)
 2. Combining CSS Selectors
@@ -69,7 +69,7 @@
 4. [Project] CSS Flag
 5. Tip from Angela - Nothing Easy is Worth Doing!
 
-## **Advanced CSS** (6 lectures)
+## 8. Advanced CSS (6 lectures)
 
 1. CSS Display
 2. CSS Float
@@ -78,7 +78,7 @@
 5. [Project] Web Design Agency Website
 6. Tip from Angela - How to Deal with Procrastination
 
-## **Flexbox** (6 lectures)
+## 9. Flexbox (6 lectures)
 
 1. Display: Flex (Preview)
 2. Flex Direction (Preview)
@@ -87,21 +87,21 @@
 5. [Project] Pricing Table
 6. Tip from Angela - Building a Programming Habit
 
-## **Grid** (4 lectures)
+## 10. Grid (4 lectures)
 
 1. Display: Grid
 2. Grid Sizing
 3. Grid Placement
 4. [Project] Mondrian Painting
 
-## **Bootstrap** (4 lectures)
+## 11. Bootstrap (4 lectures)
 
 1. What is Bootstrap?
 2. Bootstrap Layout
 3. Bootstrap Components
 4. [Project] TinDog Startup Website
 
-## **Web Design School - Create a Website that People Love** (6 lectures)
+## 12. Web Design School - Create a Website that People Love (6 lectures)
 
 1. Introduction to Web Design (Preview)
 2. Understanding Colour Theory
@@ -110,11 +110,11 @@
 5. User Experience (UX) Design
 6. Web Design in Practice - Let's apply what we've learnt!
 
-## **Capstone Project 2 - Personal Site** (1 lecture)
+## 13. Capstone Project 2 - Personal Site (1 lecture)
 
 1. Instructions
 
-## **Introduction to Javascript ES6** (24 lectures)
+## 14. Introduction to Javascript ES6 (24 lectures)
 
 1. Introduction to Javascript
 2. Javascript Alerts - Adding Behaviour to Websites
@@ -147,7 +147,7 @@
 29. JavaScript Functions Quiz
 30. Tip from Angela - Set Your Expectations
 
-## **Intermediate Javascript** (15 lectures)
+## 15. Intermediate Javascript (15 lectures)
 
 1. Random Number Generation in Javascript: Building a Love Calculator
 2. Control Statements: Using If-Else Conditionals & Logic
@@ -169,7 +169,7 @@
 18. Fibonacci Solution
 19. Tip from Angela - Retrieval is How You Learn
 
-## **The Document Object Model (DOM)** (9 lectures)
+## 16. The Document Object Model (DOM) (9 lectures)
 
 1. Adding Javascript to Websites
 2. Introduction to the Document Object Model (DOM)
@@ -181,7 +181,7 @@
 8. Manipulating HTML Element Attributes
 9. Tip from Angela - The 20 Minute Method
 
-## **Boss Level Challenge 1 - The Dicee Game** (11 lectures)
+## 17. Boss Level Challenge 1 - The Dicee Game (11 lectures)
 
 1. Challenge: The Dicee Challenge
 2. Dicee Challenge Step 0 - Download the Skeleton Project
@@ -195,7 +195,7 @@
 10. Download the Completed Website
 11. Tip from Angela - Learning Before you Eat
 
-## **Advanced Javascript and DOM Manipulation** (15 lectures)
+## 18. Advanced Javascript and DOM Manipulation (15 lectures)
 
 1. What We'll Make: Drum Kit (Preview)
 2. Download the Starting Files
@@ -213,7 +213,7 @@
 14. Download the Completed Website
 15. Tip from Angela - Dealing with Lack of Progress
 
-## **jQuery** (11 lectures)
+## 19. jQuery (11 lectures)
 
 1. What is jQuery?
 2. How to Incorporate jQuery into Websites
@@ -227,7 +227,7 @@
 10. Website Animations with jQuery
 11. Tip from Angela - Mixing Knowledge
 
-## **Boss Level Challenge 2 - The Simon Game** (25 lectures)
+## 20. Boss Level Challenge 2 - The Simon Game (25 lectures)
 
 1. What You'll Make: The Simon Game
 2. Play the Game
@@ -255,7 +255,7 @@
 24. Download the Completed Project Code
 25. Tip from Angela - Dealing with Frustration
 
-## **The Unix Command Line** (5 lectures)
+## 21. The Unix Command Line (5 lectures)
 
 1. Install Git Bash on Windows
 2. Understanding the Command Line. Long Live the Command Line!
@@ -263,12 +263,12 @@
 4. Creating, Opening, and Removing Files through the Command Line
 5. Tip from Angela - Sleep is My Secret Weapon
 
-## **Backend Web Development** (2 lectures)
+## 22. Backend Web Development (2 lectures)
 
 1. Backend Web Development Explained
 2. Backend Tools and Technologies - Which one to learn?
 
-## **Node.js** (9 lectures)
+## 23. Node.js (9 lectures)
 
 1. What is Node.js? (Preview)
 2. Install Node.js on Mac
@@ -280,7 +280,7 @@
 8. [Project] QR Code Generator
 9. Tip from Angela - Step Up to the Challenge
 
-## **Express.js with Node.js** (8 lectures)
+## 24. Express.js with Node.js (8 lectures)
 
 1. What is Express?
 2. Creating Our First Server with Express
@@ -291,7 +291,7 @@
 7. Secrets Access Project
 8. Tip from Angela - How to Solidify Your Knowledge
 
-## **EJS** (6 lectures)
+## 25. EJS (6 lectures)
 
 1. What is EJS?
 2. EJS Tags
@@ -300,11 +300,11 @@
 5. Band Generator Project
 6. Tip from Angela - Location, Location, Location!
 
-## **Capstone Project - Create a Blog web application** (1 lecture)
+## 26. Capstone Project - Create a Blog web application (1 lecture)
 
 1. Instructions
 
-## **Git, Github and Version Control** (9 lectures)
+## 27. Git, Github and Version Control (9 lectures)
 
 1. Introduction to Version Control and Git
 2. Version Control Using Git and the Command Line
@@ -316,7 +316,7 @@
 8. Forking and Pull Requests
 9. Tip from Angela - Spaced Repetition
 
-## **Application Programming Interfaces (APIs)** (8 lectures)
+## 28. Application Programming Interfaces (APIs) (8 lectures)
 
 1. Introduction to APIs
 2. Structuring API Requests
@@ -327,11 +327,11 @@
 7. Secrets Project
 8. Tip from Angela - Use Accountability in your Favour
 
-## **Capstone Project - Use a Public API** (1 lecture)
+## 29. Capstone Project - Use a Public API (1 lecture)
 
 1. Instructions
 
-## **Build Your Own API** (6 lectures)
+## 30. Build Your Own API (6 lectures)
 
 1. Building your own APIs
 2. Creating GET Routes
@@ -340,12 +340,12 @@
 5. Build your own API for a Blog
 6. Tip from Angela - How to Get a Job as Programmer
 
-## **Databases** (2 lectures)
+## 31. Databases (2 lectures)
 
 1. Databases Explained: SQL vs. NoSQL (Preview)
 2. Tip from Angela - When Life Gives You Lemons
 
-## **SQL** (6 lectures)
+## 32. SQL (6 lectures)
 
 1. SQL Commands: CREATE Table and INSERT Data
 2. SQL Commands: READ, SELECT, and WHERE
@@ -354,7 +354,7 @@
 5. Understanding SQL Relationships, Foreign Keys and Inner Joins
 6. Tip from Angela - Find All the Hard Working People
 
-## **PostgreSQL** (17 lectures)
+## 33. PostgreSQL (17 lectures)
 
 1. Introduction to Postgres
 2. How to Install PostgreSQL and pgAdmin
@@ -374,11 +374,11 @@
 16. Permalist Project
 17. Tip from Angela - Daily Routines
 
-## **Capstone Project - Book Notes** (1 lecture)
+## 34. Capstone Project - Book Notes (1 lecture)
 
 1. Instructions
 
-## **Authentication and Security - Handling Credentials & Designing a Secure Login** (11 lectures)
+## 35. Authentication and Security - Handling Credentials & Designing a Secure Login (11 lectures)
 
 1. Introduction to Authentication
 2. Level 1 - Registering Users with Email and Password
@@ -392,7 +392,7 @@
 10. Finish the app: let users submit secrets
 11. Tip from Angela - How to Work as a Freelancer
 
-## **React.js** (45 lectures)
+## 36. React.js (45 lectures)
 
 1. What is React? (Preview)
 2. What we will make in this React module
@@ -440,7 +440,7 @@
 44. React Dependencies & Styling the Keeper App
 45. Tip from Angela - How to Build Your Own Product
 
-## **Web3 Decentralised App (DApp) Development with the Internet Computer** (7 lectures)
+## 37. Web3 Decentralised App (DApp) Development with the Internet Computer (7 lectures)
 
 1. What is Web3?
 2. How does the Blockchain actually work?
@@ -450,7 +450,7 @@
 6. [Mac Users] Installation and Setup for Web3 Development
 7. [Windows Users] Installation and Setup for Web3 Development
 
-## **Build Your First Defi (Decentralised Finance) DApp - DBANK** (10 lectures)
+## 38. Build Your First Defi (Decentralised Finance) DApp - DBANK (10 lectures)
 
 1. What You'll Build - DBANK (Inspired by Compound) (Preview)
 2. Introduction to the Motoko Language
@@ -464,7 +464,7 @@
 10. Connecting the Motoko Backend to our JS Frontend
 11. Where to Get Help and Support for Development on the Internet Computer
 
-## **Deploying to the ICP Live Blockchain** (5 lectures)
+## 39. Deploying to the ICP Live Blockchain (5 lectures)
 
 1. What are Cycles and the ICP Token?
 2. How to Claim Free Cycles from Dfinity
@@ -472,14 +472,14 @@
 4. How to Convert ICP into Cycles?
 5. [Optional] How to Deploy a Static Website onto the ICP Blockchain for Hosting
 
-## **Building DApps on ICP with a React Frontend** (4 lectures)
+## 40. Building DApps on ICP with a React Frontend (4 lectures)
 
 1. How to Configure a DFX Created Project to Use React
 2. Storing Data on a Canister
 3. Retrieving Data from a Canister
 4. Deleting and Persistance
 
-## **Create Your Own Crypto Token** (11 lectures)
+## 41. Create Your Own Crypto Token (11 lectures)
 
 1. Tokens and Coins: What are they and how are they used?
 2. Download and Configure the Skeleton Project
@@ -493,7 +493,7 @@
 10. Authenticating with the Internet Identity
 11. [Optional] Live Deployment to Test Internet Identity Authentication (Preview)
 
-## **Minting NFTs and Building an NFT Marketplace like OpenSea** (10 lectures)
+## 42. Minting NFTs and Building an NFT Marketplace like OpenSea (10 lectures)
 
 1. What You'll Build - A Website to Mint, Buy and Sell NFTs (Preview)
 2. Minting NFTs
@@ -506,17 +506,17 @@
 9. Buying NFTs
 10. Join the $6 Million Dollar Supernova Hackathon
 
-## **Optional Module: Ask Angela Anything** (4 lectures)
+## 43. Optional Module: Ask Angela Anything (4 lectures)
 
 1. AAA 1 - How to Soak in Programming Concepts and more...
 2. AAA 2 - Schedule for Learning to Code and more...
 3. AAA 3 - How to Start Freelancing and more...
 4. AAA 4 - The Live AMA
 
-## **Next Steps** (1 lecture)
+## 44. Next Steps (1 lecture)
 
 1. Vote for the Next Module!
 
-## **Bonus Lecture - Succeed in the Age of AI** (1 lecture)
+## 45. Bonus Lecture - Succeed in the Age of AI (1 lecture)
 
 1. Bonus
